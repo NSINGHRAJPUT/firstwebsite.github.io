@@ -1,0 +1,45 @@
+table {
+  width:100%;
+  line-height: 50px;
+  padding:50px;
+  margin-left: 0px;
+  align-content: center;
+  background: center;
+  background: url(b1.jpg);
+  color: white;
+  text-align: center;
+}
+
+.spac {
+  width: 100%;
+  height: 100px;
+  background: black;
+  text-align: center;
+  color: white;
+}
+.btn-outline-success:hover {
+  background-color: orange;
+}
+.lin:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.lin:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.lin:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.lin:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
