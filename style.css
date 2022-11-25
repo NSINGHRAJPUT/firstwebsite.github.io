@@ -8,6 +8,7 @@ table {
   background: url(b1.jpg);
   color: white;
   text-align: center;
+  border-radius:20%;
 }
 
 .spac {
